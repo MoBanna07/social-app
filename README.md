@@ -16,7 +16,7 @@ This is a social mobile application built with **React Native** and **Expo**. Th
 
 
 ### Post Details Screen
-![Post Details Screen](./assets/images/Post%20Details.jpg)
+![Post Details Screen](./assets/images/Home.jpg)
 
 ## Installation
 
