@@ -12,10 +12,10 @@ This is a social mobile application built with **React Native** and **Expo**. Th
 ## Screenshots
 
 ### Home Screen
-D:\GUC\Semester 10\Hiryo\Task 1\Social\social-app\Home.jpg
+![Home Screen](./assets/images/Home.jpg)
 
 ### Post Details Screen
-D:\GUC\Semester 10\Hiryo\Task 1\Social\social-app\Post Details.jpg
+![Post Details Screen](./assets/images/Post%20Details.jpg)
 
 ## Installation
 
